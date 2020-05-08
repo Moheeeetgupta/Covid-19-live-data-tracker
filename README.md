@@ -1,6 +1,6 @@
 # Covid-19-live-data-tracker
 The technologies used in this android application is 
-1.Java
+1.Java,Android Studio
 2.Xml
 3.Novel covid api
 4.Simple Arc loader library
