@@ -39,8 +39,8 @@ public class DetailActivity extends AppCompatActivity {
         tvTodayDeaths = findViewById(R.id.tvTodayDeaths);
 
         tvCountry.setText(affectedcountries.countrymodelList.get(positionCountry).getCountry());
-        tvCases.setText(affectedcountries.countrymodelList.get(positionCountry).getCases ());
-        tvRecovered.setText(affectedcountries.countrymodelList.get(positionCountry).getRecovered ());
+        tvCases.setText(affectedcountries.countrymodelList.get(positionCountry).getCases ());      
+        tvRecovered.setText(affectedcountries.countrymodelList.get(positionCountry).getRecovered ());    // to get the recovered cases 
         tvCritical.setText(affectedcountries.countrymodelList.get(positionCountry).getCritical ());
         tvActive.setText(affectedcountries.countrymodelList.get(positionCountry).getActive ());
         tvTodayCases.setText(affectedcountries.countrymodelList.get(positionCountry).getTodayCases ());
