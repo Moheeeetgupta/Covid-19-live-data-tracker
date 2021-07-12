@@ -13,9 +13,9 @@
 * pie chart
 ## Features
 
-* User can see live data of covide cases which is updated after every 15 minutes
+* User can see live data of covid cases which is updated after every 15 minutes
 * User can see the data in a very attractive UI of pie charts
-* User csn also find the covid data of other countries
+* User can also find the covid data of other countries
 ---
 ## Appliaction Demo
 
