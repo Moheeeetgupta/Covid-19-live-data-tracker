@@ -17,6 +17,6 @@
 * User can see the data in a very attractive UI of pie charts
 * User can also find the covid data of other countries
 ---
-## Appliaction Demo
+## Application Demo
 
 ![livetracking](https://user-images.githubusercontent.com/57634381/81424649-e657c600-9173-11ea-8513-f42e3fbb27fb.gif)
